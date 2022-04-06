@@ -1,13 +1,12 @@
-console.log("my name is harry");
+console.log("my name is achia ");
 
-console.log('do the following');
 
 console.log(' change and push  ');
 
 console.log(' let someone change and push - now u try to change and push without pulling  ');
 
 
-console.log(' handle the conflict   ');
+console.log(' handle the conflict try not cry   ');
 
 
 console.log(' branch out amd merge to main branch ');
