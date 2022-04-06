@@ -2,17 +2,24 @@
 practice git collaboration
 
 
-so first - clone the repo 
-to run you'll need to download node.js 
-open terminal and do node --version to see if u have it installed
+i want you to practice basic self commands like 
+git add pull push commit branch log  
++
+the above with diff flags - for example
 
-run in console: 
+git add .  vs git add -u 
 
-node hello.js
+git log  and git log --oneline
 
-and see the output
+practice git revert  hard vs soft 
 
-now - u and the collaborators , enter your names , pull, push , 
-resolve conflicts , open and merge branches 
+then collabotate 
 
-and you will be a git master towards your next job
+branch out and merge the banches
+
+handle conflicts
+
+let person A push stuff 
+person B changes locally and then pulling remote commits to handle more conflicts 
+
+for advanced - git rebase +  cherry pick
