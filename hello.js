@@ -1,18 +1,5 @@
-console.log("my name is harry");
+console.log("my name is dotan ");
 
-console.log("my name is harry");
+console.log("120 ");
 
-
-console.log("my name is harry");
-
-
-console.log("my name is harry");
-
-
-console.log("my name is harry");
-
-
-console.log("my name is harry");
-
-
-
+console.log("130 ");
